@@ -13,7 +13,7 @@
 <!-- Save your final Excel dashboard screenshot as assets/reconciliation-dashboard.png -->
 <!-- Create an "assets" folder in your repository and place the screenshot inside it. -->
 
-![Banking Operations Reconciliation Dashboard](assets/reconciliation-dashboard.png)
+![Banking Operations Reconciliation Dashboard](reconciliation-dashboard.webp)
 
 *Figure 1. Excel dashboard summarizing transaction quality, settlement exceptions, and reconciliation status.*
 
